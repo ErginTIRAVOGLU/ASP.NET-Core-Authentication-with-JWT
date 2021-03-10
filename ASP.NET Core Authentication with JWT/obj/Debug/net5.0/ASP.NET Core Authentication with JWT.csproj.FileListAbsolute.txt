@@ -1,0 +1,42 @@
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\appsettings.json
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\ASP.NET Core Authentication with JWT.exe
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\ASP.NET Core Authentication with JWT.deps.json
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\ASP.NET Core Authentication with JWT.runtimeconfig.json
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\ASP.NET Core Authentication with JWT.runtimeconfig.dev.json
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\ASP.NET Core Authentication with JWT.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\ref\ASP.NET Core Authentication with JWT.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\ASP.NET Core Authentication with JWT.pdb
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\obj\Debug\net5.0\ASP.NET Core Authentication with JWT.csprojAssemblyReference.cache
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\obj\Debug\net5.0\ASP.NET Core Authentication with JWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\obj\Debug\net5.0\ASP.NET Core Authentication with JWT.AssemblyInfoInputs.cache
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\obj\Debug\net5.0\ASP.NET Core Authentication with JWT.AssemblyInfo.cs
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\obj\Debug\net5.0\ASP.NET Core Authentication with JWT.csproj.CoreCompileInputs.cache
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\obj\Debug\net5.0\ASP.NET Core Authentication with JWT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\obj\Debug\net5.0\ASP.NET Core Authentication with JWT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\obj\Debug\net5.0\staticwebassets\ASP.NET Core Authentication with JWT.StaticWebAssets.Manifest.cache
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\obj\Debug\net5.0\staticwebassets\ASP.NET Core Authentication with JWT.StaticWebAssets.xml
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\obj\Debug\net5.0\scopedcss\bundle\ASP.NET Core Authentication with JWT.styles.css
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\obj\Debug\net5.0\ASP.NET Core Authentication with JWT.RazorTargetAssemblyInfo.cache
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\obj\Debug\net5.0\ASP.NET Core Authentication with JWT.csproj.CopyComplete
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\obj\Debug\net5.0\ASP.NET Core Authentication with JWT.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\obj\Debug\net5.0\ref\ASP.NET Core Authentication with JWT.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\obj\Debug\net5.0\ASP.NET Core Authentication with JWT.pdb
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\obj\Debug\net5.0\ASP.NET Core Authentication with JWT.genruntimeconfig.cache
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\Scrutor.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Ergin\source\repos\ASP.NET Core Authentication with JWT\ASP.NET Core Authentication with JWT\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
